@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkanon1mous&label=Profile%20views&color=0e75b6&style=flat" alt="darkanon1mous" /> </p>
 
-- 🌱 I’m currently learning **Python , Numpy And Pandas, MatplotLib , Data visualization**
+- 🌱 I’m currently learning **RAGs , Agentic AI, Gen AI , LLMs, Deployments**
 
 - 📫 How to reach me **shreydikshant144@gmail.com**
 
